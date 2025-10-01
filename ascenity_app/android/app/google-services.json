@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "507552638423",
+    "project_id": "ascenity-3ed5f",
+    "storage_bucket": "ascenity-3ed5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507552638423:android:181a7309ec186514721792",
+        "android_client_info": {
+          "package_name": "com.example.ascenity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507552638423-1o4qra0fajn29arrhv4sobfrf4rhtjnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ascenity_app",
+            "certificate_hash": "037aef6dec958aaf030e341e8ebb2e9a4a20c8ae"
+          }
+        },
+        {
+          "client_id": "507552638423-nvdec40r6ofgoda3qgt51g7pc9pojuh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPSkJiOtIYQL_YAWuFqEsYf9BW0v0c8zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507552638423-nvdec40r6ofgoda3qgt51g7pc9pojuh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507552638423-nk6qlvmtqefk0d11pjq3n9u1u4vtaq4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ascenityApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

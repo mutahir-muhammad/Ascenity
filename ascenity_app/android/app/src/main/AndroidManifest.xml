@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Permission required for network access -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="ascenity_app"
         android:name="${applicationName}"
@@ -27,6 +29,11 @@
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
+        <!-- Optional metadata used by Firebase/Google Sign-In (keeps manifest explicit) -->
+        <!-- Replace the value below with your Web client id if you prefer -->
+        <meta-data
+            android:name="com.google.android.gms.client_id"
+            android:value="507552638423-nvdec40r6ofgoda3qgt51g7pc9pojuh2.apps.googleusercontent.com" />
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
